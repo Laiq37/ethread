@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849857286651",
+    "project_id": "ethread-app-33290",
+    "storage_bucket": "ethread-app-33290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849857286651:android:ae0508a5c06fe12c7efb5e",
+        "android_client_info": {
+          "package_name": "com.ethread.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849857286651-2nmgfsg2vbd41h9rdnr5dr5r5m3hljr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR3XpUksAHpZP4eIzst04oH1SSiSG0ON4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849857286651-2nmgfsg2vbd41h9rdnr5dr5r5m3hljr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
